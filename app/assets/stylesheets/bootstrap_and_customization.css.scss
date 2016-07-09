@@ -5,5 +5,18 @@ $brand-primary:		#f1c40f;
 $jumbotron-bg:		#34495e;
 $jumbotron-heading-color:	white;
 $jumbotron-color:	white;
+$navbar-height:		30px;
+$input-bg:	#ecf0f1;
+$input-color: black;
+$font-size-base: 15px;
+$headings-line-height: 1.1;
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
+
 
 @import 'bootstrap';
